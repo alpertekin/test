@@ -1,4 +1,4 @@
-# Alper's Sudoku Game
+# Alper's Sudoku Game Version II
 
 A classic Sudoku puzzle game implementation with an intuitive interface and multiple difficulty levels.
 
